@@ -1,0 +1,1621 @@
+{"name":"MongoTimeoutError","reason":{"name":"MongoNetworkError","errorLabels":["TransientTransactionError"]},"level":"error","message":"Server selection timed out after 30000 msServer selection timed out after 30000 ms","stack":"MongoTimeoutError: Server selection timed out after 30000 ms\n    at Timeout.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongodb/lib/core/sdam/topology.js:878:9)\n    at listOnTimeout (internal/timers.js:531:17)\n    at processTimers (internal/timers.js:475:7)"}
+{"name":"MongoTimeoutError","reason":{"name":"MongoNetworkError","errorLabels":["TransientTransactionError"]},"level":"error","message":"Server selection timed out after 30000 msServer selection timed out after 30000 ms","stack":"MongoTimeoutError: Server selection timed out after 30000 ms\n    at Timeout.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongodb/lib/core/sdam/topology.js:878:9)\n    at listOnTimeout (internal/timers.js:531:17)\n    at processTimers (internal/timers.js:475:7)"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"level":"error","message":"mongoose is not definedmongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /Users/adam/coding/node/vidly/routes/genres.js:17:5\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/adam/coding/node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at jsonParser (/Users/adam/coding/node/vidly/node_modules/body-parser/lib/types/json.js:110:7)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at expressInit (/Users/adam/coding/node/vidly/node_modules/express/lib/middleware/init.js:40:5)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at query (/Users/adam/coding/node/vidly/node_modules/express/lib/middleware/query.js:45:5)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/application.js:174:10)\n    at Server.app (/Users/adam/coding/node/vidly/node_modules/express/lib/express.js:39:9)\n    at Server.emit (events.js:210:5)\n    at parserOnIncoming (_http_server.js:745:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:17)"}
+{"level":"error","message":"mongoose is not definedmongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /Users/adam/coding/node/vidly/routes/genres.js:17:5\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/adam/coding/node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at jsonParser (/Users/adam/coding/node/vidly/node_modules/body-parser/lib/types/json.js:110:7)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at expressInit (/Users/adam/coding/node/vidly/node_modules/express/lib/middleware/init.js:40:5)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at query (/Users/adam/coding/node/vidly/node_modules/express/lib/middleware/query.js:45:5)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/application.js:174:10)\n    at Server.app (/Users/adam/coding/node/vidly/node_modules/express/lib/express.js:39:9)\n    at Server.emit (events.js:210:5)\n    at parserOnIncoming (_http_server.js:745:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:17)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"level":"error","message":"mongoose is not definedmongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /Users/adam/coding/node/vidly/routes/genres.js:17:5\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/adam/coding/node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at jsonParser (/Users/adam/coding/node/vidly/node_modules/body-parser/lib/types/json.js:110:7)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at expressInit (/Users/adam/coding/node/vidly/node_modules/express/lib/middleware/init.js:40:5)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at query (/Users/adam/coding/node/vidly/node_modules/express/lib/middleware/query.js:45:5)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/application.js:174:10)\n    at Server.app (/Users/adam/coding/node/vidly/node_modules/express/lib/express.js:39:9)\n    at Server.emit (events.js:210:5)\n    at parserOnIncoming (_http_server.js:745:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:17)"}
+{"level":"error","message":"mongoose is not definedmongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /Users/adam/coding/node/vidly/routes/genres.js:17:5\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/adam/coding/node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at jsonParser (/Users/adam/coding/node/vidly/node_modules/body-parser/lib/types/json.js:110:7)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at expressInit (/Users/adam/coding/node/vidly/node_modules/express/lib/middleware/init.js:40:5)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at query (/Users/adam/coding/node/vidly/node_modules/express/lib/middleware/query.js:45:5)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/application.js:174:10)\n    at Server.app (/Users/adam/coding/node/vidly/node_modules/express/lib/express.js:39:9)\n    at Server.emit (events.js:210:5)\n    at parserOnIncoming (_http_server.js:745:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:17)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"level":"error","message":"mongoose is not definedmongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /Users/adam/coding/node/vidly/routes/genres.js:17:5\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/adam/coding/node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at jsonParser (/Users/adam/coding/node/vidly/node_modules/body-parser/lib/types/json.js:110:7)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at expressInit (/Users/adam/coding/node/vidly/node_modules/express/lib/middleware/init.js:40:5)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at query (/Users/adam/coding/node/vidly/node_modules/express/lib/middleware/query.js:45:5)\n    at newFn (/Users/adam/coding/node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/adam/coding/node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at Function.handle (/Users/adam/coding/node/vidly/node_modules/express/lib/application.js:174:10)\n    at Server.app (/Users/adam/coding/node/vidly/node_modules/express/lib/express.js:39:9)\n    at Server.emit (events.js:210:5)\n    at parserOnIncoming (_http_server.js:745:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:17)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","level":"error","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/error/cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schema/objectid.js:246:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:969:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1383:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1373:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/schematype.js:1352:15)\n    at cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/cast.js:315:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:4644:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:1842:10)\n    at model.Query.<anonymous> (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/query.js:2097:8)\n    at model.Query._wrappedThunk [as _findOne] (/Users/adam/coding/node/vidly/node_modules/mongoose/lib/helpers/query/wrapThunk.js:16:8)\n    at /Users/adam/coding/node/vidly/node_modules/kareem/index.js:369:33\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"unsupported charset \"UTF-8\"unsupported charset \"UTF-8\"","charset":"utf-8","type":"charset.unsupported","level":"error","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/adam/coding/node/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/adam/coding/node/vidly/node_modules/raw-body/index.js:224:16)\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb+srv://vidlyuser:Giga52green@cluster0-vw5lx.azure.mongodb.net/test?retryWrites=true&w=majority...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb+srv://vidlyuser:Giga52green@cluster0-vw5lx.azure.mongodb.net/vidly?retryWrites=true&w=majority...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb+srv://vidlyuser:Giga52green@cluster0-vw5lx.azure.mongodb.net/vidly?retryWrites=true&w=majority...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"errno":"EREFUSED","code":"EREFUSED","syscall":"queryTxt","hostname":"cluster0-vw5lx.azure.mongodb.net","level":"error","message":"queryTxt EREFUSED cluster0-vw5lx.azure.mongodb.netqueryTxt EREFUSED cluster0-vw5lx.azure.mongodb.net","stack":"Error: queryTxt EREFUSED cluster0-vw5lx.azure.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (dns.js:202:19)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"errno":"EREFUSED","code":"EREFUSED","syscall":"queryTxt","hostname":"cluster0-vw5lx.azure.mongodb.net","level":"error","message":"queryTxt EREFUSED cluster0-vw5lx.azure.mongodb.netqueryTxt EREFUSED cluster0-vw5lx.azure.mongodb.net","stack":"Error: queryTxt EREFUSED cluster0-vw5lx.azure.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (dns.js:202:19)"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Listening on port 3001...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
