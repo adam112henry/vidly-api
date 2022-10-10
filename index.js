@@ -16,6 +16,10 @@ app.get('/', (req, res) => {
     res.send('Nothing to see, this is an API');
 });
 
+app.get('/api', (req, res) => {
+    res.send('Nothing to see, this is an API <p/>You need to call the endpoints...');
+});
+
 const port = process.env.PORT || 3001;
 const server = app.listen(port, () => winston.info(`Listening on port ${port}...`));
 
