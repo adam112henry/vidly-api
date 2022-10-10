@@ -32,4 +32,4 @@ The API supports the following endpoints: \
 
 ## Use Postman
 
-Sample Postman requests are located in \...
+Sample Postman requests are located in \Postman
