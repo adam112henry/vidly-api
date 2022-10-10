@@ -1,0 +1,370 @@
+{
+	"info": {
+		"_postman_id": "ea3eb2ec-175b-4e00-bc3f-da12b0c42cc6",
+		"name": "Vidly_API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Heroku",
+			"item": [
+				{
+					"name": "Heroku - Authenticate user",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "x-Auth-Token",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZTZkYWM1M2E0NWRhMDAwMTc0YTI3YTEiLCJpYXQiOjE1ODQyNDU4NDN9.8yCzt8CfTpbjLToIQ1P1II31AmYopwbtbwXazDwIcFQ",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"email\": \"barb@gmails.com\",\n\t\"password\": \"12345\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://vidly-adamh.herokuapp.com/api/auth",
+							"protocol": "https",
+							"host": [
+								"vidly-adamh",
+								"herokuapp",
+								"com"
+							],
+							"path": [
+								"api",
+								"auth"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Heroku - Get users",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://vidly-adamh.herokuapp.com/api/genres",
+							"protocol": "https",
+							"host": [
+								"vidly-adamh",
+								"herokuapp",
+								"com"
+							],
+							"path": [
+								"api",
+								"genres"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Heroku - Get genres",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://vidly-adamh.herokuapp.com/api/genres",
+							"protocol": "https",
+							"host": [
+								"vidly-adamh",
+								"herokuapp",
+								"com"
+							],
+							"path": [
+								"api",
+								"genres"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Heroku - Get customers",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://vidly-adamh.herokuapp.com/api/genres",
+							"protocol": "https",
+							"host": [
+								"vidly-adamh",
+								"herokuapp",
+								"com"
+							],
+							"path": [
+								"api",
+								"genres"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Heroku - Get movies",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://vidly-adamh.herokuapp.com/api/movies",
+							"protocol": "https",
+							"host": [
+								"vidly-adamh",
+								"herokuapp",
+								"com"
+							],
+							"path": [
+								"api",
+								"movies"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Heroku - Get rentals",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://vidly-adamh.herokuapp.com/api/movies",
+							"protocol": "https",
+							"host": [
+								"vidly-adamh",
+								"herokuapp",
+								"com"
+							],
+							"path": [
+								"api",
+								"movies"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Heroku - Create genre",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "x-auth-token",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZGUxZDIzMmRjODQ1MjY0YzQwZTgzZjMiLCJpYXQiOjE1NzUxMjgzNzF9.znYoS36l9RkRv9XhJI7Sso_IqmdV934NktlJhJ_GHCo",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\": \"Comedyd\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3001/api/genres",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3001",
+							"path": [
+								"api",
+								"genres"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Heroku - Create movie",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "x-auth-token",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZTZkYWM1M2E0NWRhMDAwMTc0YTI3YTEiLCJpYXQiOjE1ODQyNDYyNjB9.JOuTBOcT125lIR2GkKiRHdiagUNOAJy02lizq_CJgjE",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"numberInStock\": \"3\",\n\t\"dailyRentalRate\":\"5.67\",\n\t\"title\": \"Nightmare on Elm Street\",\n\t\"genreId\": \"5e6dabf84b6f881c57d5ca1d\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://vidly-adamh.herokuapp.com/api/movies",
+							"protocol": "https",
+							"host": [
+								"vidly-adamh",
+								"herokuapp",
+								"com"
+							],
+							"path": [
+								"api",
+								"movies"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Heroku - Create customer",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "x-auth-token",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZTZkYWM1M2E0NWRhMDAwMTc0YTI3YTEiLCJpYXQiOjE1ODQyNDYyNjB9.JOuTBOcT125lIR2GkKiRHdiagUNOAJy02lizq_CJgjE",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\": \"Adam Henry\",\n\t\"isGold\":\"true\",\n\t\"phone\": \"123-456-7890\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://vidly-adamh.herokuapp.com/api/customers",
+							"protocol": "https",
+							"host": [
+								"vidly-adamh",
+								"herokuapp",
+								"com"
+							],
+							"path": [
+								"api",
+								"customers"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Heroku - Create rental",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "x-auth-token",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZTZkYWM1M2E0NWRhMDAwMTc0YTI3YTEiLCJpYXQiOjE1ODQyNDYyNjB9.JOuTBOcT125lIR2GkKiRHdiagUNOAJy02lizq_CJgjE",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"customerId\": \"634201bcda3c1c0016ac6588\",\n\t\"movieId\": \"6341ff6bda3c1c0016ac6579\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://vidly-adamh.herokuapp.com/api/rentals",
+							"protocol": "https",
+							"host": [
+								"vidly-adamh",
+								"herokuapp",
+								"com"
+							],
+							"path": [
+								"api",
+								"rentals"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Heroku - Update movie",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "x-auth-token",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZGRlZjBmYjJkYjZhMDU4NDcxOWFiZTYiLCJpc0FkbWluIjp0cnVlLCJpYXQiOjE1ODI5ODc2ODd9.ucHG4Ae4S7qNb6V6AIuBsCbykh_904X1Fd1UykON0bU",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"title\": \"Casablanca\",\n\t\"numberInStock\": \"44\",\n\t\"dailyRentalRate\": \"5.75\",\n\t\"genreId\": \"5dc60ee068ff8b3c5f7378e8\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3001/api/movies/5ddabd56a7b37b22a8f37afa",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3001",
+							"path": [
+								"api",
+								"movies",
+								"5ddabd56a7b37b22a8f37afa"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
