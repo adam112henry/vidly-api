@@ -3,7 +3,8 @@
 Vidly is a node application hosting a RESTful API to service a movie rental business.\
 A deployed version of this application is hosted on Heroku at [https://vidly-adamh.herokuapp.com/api/](https://vidly-adamh.herokuapp.com/api/). \
 The database is mongodb hosted on [MongoDB Atlas](https://www.mongodb.com/atlas). \
-Routing is handled by [Express](https://www.npmjs.com/package/express), security is implemented with [jwt](https://www.npmjs.com/package/jsonwebtoken), and [jest](https://www.npmjs.com/package/jest) for automated tests.
+Routing is handled by [Express](https://www.npmjs.com/package/express), security is implemented with [jwt](https://www.npmjs.com/package/jsonwebtoken), and [jest](https://www.npmjs.com/package/jest) for automated tests. \
+App written while studying Code with Mosh course [The Complete Node.js Course](https://codewithmosh.com/p/the-complete-node-js-course).
 
 ## Endpoints
 
